@@ -6,3 +6,6 @@ topics queue:
 	- confusion matrix
 	- PR and ROC curve 
 	- how to plot multiple line curve of PR or ROC in one chart
+
+## Useful Reference:
+- https://seaborn.pydata.org/tutorial/distributions.html
